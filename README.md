@@ -1,1 +1,1 @@
-# pyinthehorse
+# CS in The Horse
